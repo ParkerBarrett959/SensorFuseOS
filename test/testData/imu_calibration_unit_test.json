@@ -1,0 +1,52 @@
+{
+    "accelerometer":
+        {
+	    "bias":
+	        {
+                    "x_body":1.23,
+		    "y_body":4.56,
+		    "z_body":7.89
+		},
+	    "scale_factor":
+	        {
+		    "x_body":2.34,
+		    "y_body":5.67,
+		    "z_body":8.91
+
+		},
+	    "misalignment":
+	        {
+		    "m1":1.12,
+                    "m2":2.23,
+                    "m3":3.34,
+		    "m4":4.45,
+                    "m5":5.56,
+                    "m6":6.67
+		}
+        },
+    "gyroscope":
+        {
+	    "bias":
+                {
+                    "x_body":-1.23,
+                    "y_body":-4.56,
+                    "z_body":-7.89
+                },
+            "scale_factor":
+                {
+                    "x_body":-2.34,
+                    "y_body":-5.67,
+                    "z_body":-8.91
+
+                },
+            "misalignment":
+                {
+                    "m1":-1.12,
+                    "m2":-2.23,
+                    "m3":-3.34,
+                    "m4":-4.45,
+                    "m5":-5.56,
+                    "m6":-6.67
+                }
+        }
+}

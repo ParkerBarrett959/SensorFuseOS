@@ -1,0 +1,4 @@
+{
+    "config_path" : "/path/to/SensorFuseOS/test/testData/",
+    "imu_calibration" : "imu_calibration_unit_test.json"
+}
